@@ -1,0 +1,3 @@
+app/code/local/Wmd/Wmdlogincheck app/code/local/Wmd/Wmdlogincheck
+app/etc/modules/Wmd_Wmdlogincheck.xml app/etc/modules/Wmd_Wmdlogincheck.xml
+app/locale/en_US/Wmd_Logincheck.csv app/locale/en_US/Wmd_Logincheck.csv
